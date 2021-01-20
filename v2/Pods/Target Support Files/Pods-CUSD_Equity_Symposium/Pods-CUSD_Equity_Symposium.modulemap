@@ -1,0 +1,6 @@
+framework module Pods_CUSD_Equity_Symposium {
+  umbrella header "Pods-CUSD_Equity_Symposium-umbrella.h"
+
+  export *
+  module * { export * }
+}
